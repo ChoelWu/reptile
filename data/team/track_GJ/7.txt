@@ -1,0 +1,1 @@
+"<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\r\n<html>\r\n<head><title>410 Gone</title></head>\r\n<body>\r\n<center><h1>410 Gone</h1></center>\r\n<hr/>Powered by Tengine<hr><center>tengine</center>\r\n</body>\r\n</html>\r\n"
